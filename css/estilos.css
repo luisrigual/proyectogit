@@ -1,0 +1,56 @@
+body{
+     font-family: 'Roboto', sans-serif;
+     color: #444;
+     }
+h1,h2,h3,h4,h5,h6,p{
+	font-family: 'Roboto', sans-serif;
+}
+.h1{
+	font-weight: 300;
+}
+h1{
+	font-size: 2.5rem;
+	font-weight: 300;
+}
+h2{
+	font-size: 2rem;
+	font-weight: 300;
+}
+h3{
+	font-size: 1.75rem;
+	font-weight: 300;
+}
+h4{
+    font-size: 1.5rem;
+	font-weight: 400;
+}
+h5{
+    font-size: 1.5rem;
+	font-weight: 300;
+}
+p{
+	font-weight: 300;
+}
+.fondo{
+        background:  url('../img/bank.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+}
+.fondo-2{
+        background-color: rgba(0, 0, 0, 0.65);
+        height: 100vh;
+      }
+.bg-orange{
+	background-color: #EF7F01;
+}
+.bg-blue{
+	background-color: #12235D;
+}
+.bg-black{
+	background-color: #333;
+}
+#logo{
+	width: 35px;
+	height: 35px;
+}
