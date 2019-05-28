@@ -18,7 +18,7 @@ session_start();
 </head>
 <body>
 <!--navbar-->
-<div class="container-fluid navbar-inverse bg-success fixed-top">
+<div class="container-fluid navbar-inverse bg-blue fixed-top">
 	<nav class="navbar navbar-expand-lg container">
 		<a class="navbar-brand text-white" href="#"><img id="logo" src="img/logo.png" alt="logo"></i>Banco BimYou</a>
 		<button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
